@@ -71,13 +71,6 @@ The dashboard allows dynamic filtering and visual analysis.
 
 ---
 
-## 📷 Dashboard Preview
-
-![Amazon Books Dashboard](books_dashboard.png)
-
-
----
-
 ## 💡 Key Insights
 
 - Majority of books fall within the 4–5 rating range  
